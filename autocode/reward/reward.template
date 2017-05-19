@@ -1,0 +1,24 @@
+
+mapping mpItem = ([ 
+{%for item in Cols%} \
+{%if item.NAME %} \
+	{{item.ROW}}:([ \
+"Name":"{{item.NAME}}" \
+{%if item.AMOUNT%}"amount":{{item.AMOUNT}},{%endif%} \
+{%if item.ATTRIB%}"attrib":"{{item.ATTRIB}}",{%endif%} \
+{%if item.RATE%}"rate":{{item.RATE}},{%endif%} \
+{%if item.GROSS%}"gross":{{item.GROSS}},{%endif%} \
+{%if item.VALUABLE%}"valueable":{{item.VALUABLE}},{%endif%} \
+{%if item.VALUEABLE%}"perlimit":{{item.VALUEABLE}},{%endif%} \
+{%if item.ANNOUNCE%}"announce":"{{item.ANNOUNCE}}",{%endif%} \
+]),\
+{%endif%}
+{%endfor%}\
+])
+
+
+int life = {{life}};
+string default = "{{default1}}";
+
+// code
+

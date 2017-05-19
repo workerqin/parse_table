@@ -1,0 +1,3 @@
+id,ship_id,name,tag,ai_id,team_id,rota,x,y,max_sh,gun_value1,gun_value2,gun_value3,gun_range1,gun_range2,gun_range3,boat_damage,goods_plunder,turn_speed,speed_control,miss_attack,max_hp,fireClose,speed
+1,12,李琪,liqi,{},1,90,500,800,20000,500,400,300,150,200,250,100,100,100,200,0,20000,500,560
+2,12,李琪,liqi,{},2,270,800,800,20000,500,400,300,150,200,250,100,100,100,200,0,20000,500,560

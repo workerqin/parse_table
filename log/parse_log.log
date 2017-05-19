@@ -1,0 +1,93 @@
+开始导表过程
+不存在文件[/home/czq0425/dhh/logic/tools/tmp/s水手系统/sailor_other_skill_czq.xls]
+不能获取对应的文件: 玩法系统/s水手系统/sailor_other_skill_czq.xls
+data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+data/stats_data.c导表失败
+导表过程结束
+开始导表过程
+data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+================2================data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+================2===============================3=================data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+================2===============================3================================4=================data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+================2===============================3================================4=================data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+================2===============================3================================5=================执行命令 : python /home/czq0425/dhh/logic/tools/tools/autocode/skill/parse_skill.py /home/czq0425/dhh/logic/tools/ /home/czq0425/dhh/logic/tools/tmp/s水手系统/sailor_other_skill_czq.xls 战斗外技能 data/other_skill.c >> /home/czq0425/dhh/logic/tools/log/parse_log.log
+data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+================2===============================3================================5=================执行命令 : python /home/czq0425/dhh/logic/tools/tools/autocode/skill/parse_skill.py /home/czq0425/dhh/logic/tools/ /home/czq0425/dhh/logic/tools/tmp/s水手系统/sailor_other_skill_czq.xls 战斗外技能 data/other_skill.c >> /home/czq0425/dhh/logic/tools/log/parse_log.log
+data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+==============tool_dir==============data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+/home/czq0425/dhh/logic/tools/data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+/home/czq0425/dhh/logic/tools/执行命令 : python /home/czq0425/dhh/logic/tools/tools/autocode/skill/parse_skill.py /home/czq0425/dhh/logic/tools/ /home/czq0425/dhh/logic/tools/tmp/s水手系统/sailor_other_skill_czq.xls 战斗外技能 data/other_skill.c >> /home/czq0425/dhh/logic/tools/log/parse_log.log
+data/other_skill.c导表失败
+导表过程结束
+开始导表过程
+/home/czq0425/dhh/logic/tools/执行命令 : python /home/czq0425/dhh/logic/tools/tools/autocode/achieve/gen_achieve_info.py /home/czq0425/dhh/logic/tools/ /home/czq0425/dhh/logic/tools/tmp/c成就系统/achievement_new_czq.xls  data/stats_data.c >> /home/czq0425/dhh/logic/tools/log/parse_log.log
+data/stats_data.c导表失败
+导表过程结束
+开始导表过程
+========/home/czq0425/dhh/logic/tools/home/czq0425/dhh/logic/tools/执行命令 : python /home/czq0425/dhh/logic/tools/tools/autocode/skill/parse_skill.py /home/czq0425/dhh/logic/tools/ /home/czq0425/dhh/logic/tools/tmp/s水手系统/sailor_other_skill_czq.xls 战斗外技能 data/other_skill.c >> /home/czq0425/dhh/logic/tools/log/parse_log.log
+data/other_skill.c导表失败
+导表过程结束
+01====0+++++====1+++++====0+++++====<xlrd.sheet.Sheet object at 0x103b150>+++++
+====1+++++====<xlrd.sheet.Sheet object at 0x103b110>+++++
+====0+++++====0+++++====1+++++==1=0++1++==1=1++1++==1=2++1++====0+++++
+====1+++++
+==1=0++1++
+==1=1++1++
+==1=2++1++
+==1=0++1++
+==1=1++1++
+==1=2++1++
+==1=0++1++
+==1=1++1++
+==1=2++1++
+====0+++++
+====1+++++
+====0+++++
+====1+++++
+====技能等级=====
+====技能等级=====
+====技能等级=====
+====技能等级=====
+====几率=====
+====几率=====
+====几率=====
+====几率=====
+====增加数量=====
+====增加数量=====
+====增加数量=====
+====增加数量=====
+====0+++++
+====1+++++
+====0+++++
+====1+++++
+====0+++++
+====1+++++

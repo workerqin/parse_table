@@ -1,0 +1,2921 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/qtz/!svn/ver/386999/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles
+END
+plot_52_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/356278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_52_info.lua
+END
+ai_yiji_1007_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1007_info.lua
+END
+ship_2_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/357119/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_2_info.lua
+END
+plot_36_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/232731/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_36_info.lua
+END
+plot_62_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_62_jy_info.lua
+END
+ship_114_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_114_info.lua
+END
+ship_yiji_1001_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1001_info.lua
+END
+plot_84_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/294921/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_84_info.lua
+END
+ship_123_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_123_jy_info.lua
+END
+plot_68_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/232731/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_68_info.lua
+END
+ai_14_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/378496/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_14_info.lua
+END
+ship_yiji_2005_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_2005_info.lua
+END
+plot_guildboss_1005_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/qtz/!svn/ver/357183/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_guildboss_1005_info.lua
+END
+ai_32_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_32_jy_info.lua
+END
+ai_62_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/363992/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_62_info.lua
+END
+plot_4_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/381730/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_4_info.lua
+END
+plot_111_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_111_jy_info.lua
+END
+ai_46_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/231745/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_46_info.lua
+END
+plot_142_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/383597/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_142_info.lua
+END
+ai_73_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_73_jy_info.lua
+END
+plot_yiji_1011_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1011_info.lua
+END
+ai_94_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/382488/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_94_info.lua
+END
+ship_14_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/378284/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_14_info.lua
+END
+ship_13_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370119/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_13_jy_info.lua
+END
+ai_1_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_1_info.lua
+END
+ai_101_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/383687/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_101_info.lua
+END
+ship_62_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_62_info.lua
+END
+ship_46_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/232731/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_46_info.lua
+END
+ship_91_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_91_jy_info.lua
+END
+ai_133_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/370017/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_133_info.lua
+END
+ship_94_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/382438/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_94_info.lua
+END
+plot_13_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/371449/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_13_info.lua
+END
+ai_117_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/247298/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_117_info.lua
+END
+ship_guildboss_1003_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/qtz/!svn/ver/376791/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_guildboss_1003_info.lua
+END
+ai_yiji_2004_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/306090/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_2004_info.lua
+END
+ai_134_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/372600/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_134_jy_info.lua
+END
+plot_61_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/356278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_61_info.lua
+END
+plot_45_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/243858/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_45_info.lua
+END
+plot_71_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_71_jy_info.lua
+END
+ship_123_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_123_info.lua
+END
+ship_yiji_1010_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1010_info.lua
+END
+plot_93_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/365885/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_93_info.lua
+END
+ship_132_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_132_jy_info.lua
+END
+ai_23_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/368449/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_23_info.lua
+END
+ai_41_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_41_jy_info.lua
+END
+ai_71_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/379614/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_71_info.lua
+END
+plot_103_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/356301/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_103_info.lua
+END
+ai_55_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/248988/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_55_info.lua
+END
+ai_82_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_82_jy_info.lua
+END
+plot_yiji_1004_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1004_info.lua
+END
+ship_23_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_23_info.lua
+END
+ai_guildboss_1004_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/qtz/!svn/ver/376791/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_guildboss_1004_info.lua
+END
+ship_22_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/381035/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_22_jy_info.lua
+END
+ship_71_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_71_info.lua
+END
+plot_yiji_2008_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/301196/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_2008_info.lua
+END
+ship_55_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/248988/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_55_info.lua
+END
+ai_102_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/386993/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_102_jy_info.lua
+END
+ship_63_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_63_jy_info.lua
+END
+ai_142_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/384133/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_142_info.lua
+END
+plot_22_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/381035/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_22_info.lua
+END
+ai_143_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/383597/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_143_jy_info.lua
+END
+plot_54_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/231745/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_54_info.lua
+END
+plot_43_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_43_jy_info.lua
+END
+ai_yiji_1009_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1009_info.lua
+END
+ship_4_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/272005/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_4_info.lua
+END
+ship_132_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_132_info.lua
+END
+ship_141_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/384454/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_141_jy_info.lua
+END
+ship_yiji_1003_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1003_info.lua
+END
+plot_84_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_84_jy_info.lua
+END
+ai_32_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/364665/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_32_info.lua
+END
+ai_13_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_13_jy_info.lua
+END
+ai_16_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/267792/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_16_info.lua
+END
+ship_yiji_2007_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_2007_info.lua
+END
+plot_112_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/356301/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_112_info.lua
+END
+ai_64_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_64_info.lua
+END
+ai_91_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/372317/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_91_jy_info.lua
+END
+plot_yiji_2001_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/301196/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_2001_info.lua
+END
+plot_133_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/370136/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_133_jy_info.lua
+END
+plot_yiji_1013_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1013_info.lua
+END
+ship_32_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_32_info.lua
+END
+ship_31_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/380527/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_31_jy_info.lua
+END
+ship_16_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/267792/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_16_info.lua
+END
+ai_3_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_3_info.lua
+END
+ai_103_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/383687/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_103_info.lua
+END
+ship_64_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_64_info.lua
+END
+ai_111_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_111_jy_info.lua
+END
+ship_72_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_72_jy_info.lua
+END
+ai_yiji_1002_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1002_info.lua
+END
+plot_31_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/314777/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_31_info.lua
+END
+plot_11_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_11_jy_info.lua
+END
+plot_15_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/372477/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_15_info.lua
+END
+ship_guildboss_1005_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/qtz/!svn/ver/376791/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_guildboss_1005_info.lua
+END
+ai_yiji_2006_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/306090/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_2006_info.lua
+END
+plot_15_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/375649/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_15_jy_info.lua
+END
+plot_52_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_52_jy_info.lua
+END
+plot_63_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/356278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_63_info.lua
+END
+ship_141_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_141_info.lua
+END
+ship_113_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_113_jy_info.lua
+END
+ship_125_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/247298/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_125_info.lua
+END
+ship_yiji_1012_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1012_info.lua
+END
+plot_93_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_93_jy_info.lua
+END
+plot_95_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/247827/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_95_info.lua
+END
+ai_41_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/363992/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_41_info.lua
+END
+ai_22_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_22_jy_info.lua
+END
+ai_25_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/357119/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_25_info.lua
+END
+plot_121_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/356301/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_121_info.lua
+END
+plot_101_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_101_jy_info.lua
+END
+ai_73_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/363992/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_73_info.lua
+END
+plot_105_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/249387/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_105_info.lua
+END
+ai_63_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_63_jy_info.lua
+END
+plot_yiji_2010_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/301196/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_2010_info.lua
+END
+plot_142_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/383597/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_142_jy_info.lua
+END
+ship_41_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_41_info.lua
+END
+ship_begin_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/383667/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_begin_info.lua
+END
+plot_yiji_1006_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1006_info.lua
+END
+ship_25_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/330351/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_25_info.lua
+END
+ai_guildboss_1006_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/qtz/!svn/ver/376791/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_guildboss_1006_info.lua
+END
+ai_112_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/371925/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_112_info.lua
+END
+ship_73_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/373141/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_73_info.lua
+END
+ship_81_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_81_jy_info.lua
+END
+ai_yiji_1011_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1011_info.lua
+END
+plot_24_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/235337/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_24_info.lua
+END
+ship_102_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/386993/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_102_info.lua
+END
+plot_61_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_61_jy_info.lua
+END
+plot_72_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/356278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_72_info.lua
+END
+plot_56_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/232731/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_56_info.lua
+END
+ship_122_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_122_jy_info.lua
+END
+ship_134_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/372239/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_134_info.lua
+END
+ship_yiji_1005_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1005_info.lua
+END
+ai_31_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/386342/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_31_jy_info.lua
+END
+ai_34_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/235337/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_34_info.lua
+END
+ship_yiji_2009_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_2009_info.lua
+END
+ai_82_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/370017/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_82_info.lua
+END
+plot_114_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/356306/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_114_info.lua
+END
+ai_72_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_72_jy_info.lua
+END
+ai_66_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/231745/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_66_info.lua
+END
+plot_114_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_114_jy_info.lua
+END
+plot_yiji_2003_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/301196/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_2003_info.lua
+END
+ship_12_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370119/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_12_jy_info.lua
+END
+plot_yiji_1015_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1015_info.lua
+END
+ship_34_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/235337/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_34_info.lua
+END
+ai_121_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/372558/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_121_info.lua
+END
+ship_53_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_53_jy_info.lua
+END
+ship_82_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_82_info.lua
+END
+ai_5_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_5_info.lua
+END
+ai_105_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/249387/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_105_info.lua
+END
+ship_66_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/231745/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_66_info.lua
+END
+ai_yiji_1004_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1004_info.lua
+END
+ai_133_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/370133/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_133_jy_info.lua
+END
+ship_94_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/382438/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_94_jy_info.lua
+END
+plot_33_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/372064/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_33_info.lua
+END
+plot_33_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/372064/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_33_jy_info.lua
+END
+plot_17_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/258369/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_17_info.lua
+END
+ship_111_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_111_info.lua
+END
+ai_yiji_2008_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/306090/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_2008_info.lua
+END
+plot_81_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/356278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_81_info.lua
+END
+plot_65_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/243858/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_65_info.lua
+END
+ship_131_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_131_jy_info.lua
+END
+ai_11_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/328166/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_11_info.lua
+END
+ship_143_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_143_info.lua
+END
+ship_yiji_2002_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_2002_info.lua
+END
+plot_guildboss_1002_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/qtz/!svn/ver/357183/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_guildboss_1002_info.lua
+END
+ship_127_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/247298/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_127_info.lua
+END
+ship_yiji_1014_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1014_info.lua
+END
+ai_begin_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/383667/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_begin_info.lua
+END
+plot_97_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/247875/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_97_info.lua
+END
+plot_1_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_1_info.lua
+END
+ai_43_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/363992/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_43_info.lua
+END
+ai_91_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/372317/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_91_info.lua
+END
+plot_123_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/356301/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_123_info.lua
+END
+ai_81_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/379423/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_81_jy_info.lua
+END
+ai_75_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/247266/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_75_info.lua
+END
+ship_11_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/328170/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_11_info.lua
+END
+plot_123_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_123_jy_info.lua
+END
+ship_21_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/381050/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_21_jy_info.lua
+END
+ship_43_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/373141/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_43_info.lua
+END
+plot_yiji_1008_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1008_info.lua
+END
+ai_101_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/383687/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_101_jy_info.lua
+END
+ship_62_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_62_jy_info.lua
+END
+ship_91_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_91_info.lua
+END
+ai_114_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/370017/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_114_info.lua
+END
+ship_75_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/247266/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_75_info.lua
+END
+ai_yiji_2001_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/306090/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_2001_info.lua
+END
+ai_yiji_1013_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1013_info.lua
+END
+ai_142_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/384488/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_142_jy_info.lua
+END
+plot_42_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/330351/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_42_info.lua
+END
+plot_42_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_42_jy_info.lua
+END
+plot_26_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/243861/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_26_info.lua
+END
+plot_74_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_74_info.lua
+END
+ship_103_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/383687/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_103_jy_info.lua
+END
+plot_83_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_83_jy_info.lua
+END
+ai_12_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_12_jy_info.lua
+END
+ship_yiji_1007_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1007_info.lua
+END
+ai_52_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/363992/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_52_info.lua
+END
+ai_36_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/232731/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_36_info.lua
+END
+ai_53_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_53_jy_info.lua
+END
+plot_132_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/356301/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_132_info.lua
+END
+plot_yiji_1001_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1001_info.lua
+END
+ai_84_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/370017/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_84_info.lua
+END
+plot_132_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/370136/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_132_jy_info.lua
+END
+ai_guildboss_1001_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/qtz/!svn/ver/376791/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_guildboss_1001_info.lua
+END
+ai_68_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/232731/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_68_info.lua
+END
+ai_94_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/382488/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_94_jy_info.lua
+END
+plot_yiji_2005_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/301196/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_2005_info.lua
+END
+ship_52_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_52_info.lua
+END
+ship_36_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/232731/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_36_info.lua
+END
+ship_71_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_71_jy_info.lua
+END
+ai_123_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/370017/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_123_info.lua
+END
+ship_84_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/373141/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_84_info.lua
+END
+ai_yiji_2010_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/306090/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_2010_info.lua
+END
+ai_114_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_114_jy_info.lua
+END
+ship_68_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/232731/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_68_info.lua
+END
+plot_51_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/356278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_51_info.lua
+END
+ai_yiji_1006_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1006_info.lua
+END
+ship_1_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/357170/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_1_info.lua
+END
+plot_14_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/375649/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_14_jy_info.lua
+END
+plot_51_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_51_jy_info.lua
+END
+plot_35_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/239755/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_35_info.lua
+END
+ship_113_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/373141/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_113_info.lua
+END
+plot_83_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/356278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_83_info.lua
+END
+ship_112_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_112_jy_info.lua
+END
+plot_67_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/243858/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_67_info.lua
+END
+plot_92_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_92_jy_info.lua
+END
+ai_13_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/385478/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_13_info.lua
+END
+ship_yiji_2004_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_2004_info.lua
+END
+ai_21_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/371964/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_21_jy_info.lua
+END
+plot_guildboss_1004_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/qtz/!svn/ver/357183/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_guildboss_1004_info.lua
+END
+ai_61_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/366844/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_61_info.lua
+END
+plot_3_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/381730/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_3_info.lua
+END
+ai_45_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/243858/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_45_info.lua
+END
+ai_62_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_62_jy_info.lua
+END
+plot_141_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/384436/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_141_info.lua
+END
+plot_yiji_1010_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1010_info.lua
+END
+ai_93_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/370017/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_93_info.lua
+END
+plot_141_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/384436/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_141_jy_info.lua
+END
+plot_125_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/305939/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_125_info.lua
+END
+ship_13_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/383884/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_13_info.lua
+END
+ship_61_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_61_info.lua
+END
+ship_43_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377769/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_43_jy_info.lua
+END
+ship_45_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/248988/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_45_info.lua
+END
+ai_132_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/370017/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_132_info.lua
+END
+ship_93_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/373141/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_93_info.lua
+END
+plot_12_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385478/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_12_info.lua
+END
+ai_123_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_123_jy_info.lua
+END
+ship_84_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_84_jy_info.lua
+END
+ship_guildboss_1002_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/qtz/!svn/ver/376791/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_guildboss_1002_info.lua
+END
+ai_yiji_2003_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/306090/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_2003_info.lua
+END
+ai_yiji_1015_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1015_info.lua
+END
+plot_23_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/372064/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_23_jy_info.lua
+END
+plot_44_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/231745/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_44_info.lua
+END
+ship_122_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/372239/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_122_info.lua
+END
+plot_92_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/356278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_92_info.lua
+END
+ship_121_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_121_jy_info.lua
+END
+ai_22_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/381035/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_22_info.lua
+END
+plot_102_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/386993/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_102_info.lua
+END
+ship_yiji_1009_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1009_info.lua
+END
+ai_54_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/231745/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_54_info.lua
+END
+ai_71_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/379614/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_71_jy_info.lua
+END
+plot_113_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_113_jy_info.lua
+END
+plot_134_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/356301/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_134_info.lua
+END
+plot_yiji_1003_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1003_info.lua
+END
+ship_11_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370119/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_11_jy_info.lua
+END
+ship_22_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_22_info.lua
+END
+ai_guildboss_1003_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/qtz/!svn/ver/376791/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_guildboss_1003_info.lua
+END
+plot_yiji_2007_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/301196/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_2007_info.lua
+END
+ship_15_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/378296/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_15_jy_info.lua
+END
+ship_52_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_52_jy_info.lua
+END
+ship_54_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/231745/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_54_info.lua
+END
+ai_141_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/384471/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_141_info.lua
+END
+plot_21_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/330351/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_21_info.lua
+END
+ai_132_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/370133/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_132_jy_info.lua
+END
+ai_125_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/247298/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_125_info.lua
+END
+ship_93_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_93_jy_info.lua
+END
+plot_32_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_32_jy_info.lua
+END
+plot_53_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/330351/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_53_info.lua
+END
+ai_yiji_1008_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1008_info.lua
+END
+ship_3_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/272005/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_3_info.lua
+END
+ship_131_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_131_info.lua
+END
+plot_73_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_73_jy_info.lua
+END
+ship_115_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/247464/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_115_info.lua
+END
+ship_yiji_1002_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1002_info.lua
+END
+plot_85_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/247266/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_85_info.lua
+END
+ai_31_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/386342/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_31_info.lua
+END
+ship_134_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_134_jy_info.lua
+END
+ai_15_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/378496/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_15_info.lua
+END
+ship_yiji_2006_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_2006_info.lua
+END
+plot_guildboss_1006_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/qtz/!svn/ver/357183/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_guildboss_1006_info.lua
+END
+plot_111_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/365885/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_111_info.lua
+END
+ai_43_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_43_jy_info.lua
+END
+ai_63_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/363992/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_63_info.lua
+END
+plot_5_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/381730/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_5_info.lua
+END
+plot_122_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_122_jy_info.lua
+END
+plot_143_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/383597/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_143_info.lua
+END
+plot_yiji_1012_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1012_info.lua
+END
+ai_95_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/247816/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_95_info.lua
+END
+ai_84_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_84_jy_info.lua
+END
+ship_31_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_31_info.lua
+END
+plot_127_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/305939/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_127_info.lua
+END
+ship_15_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/378296/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_15_info.lua
+END
+ai_2_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_2_info.lua
+END
+ai_102_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/386993/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_102_info.lua
+END
+ship_61_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_61_jy_info.lua
+END
+ship_63_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/373141/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_63_info.lua
+END
+ai_yiji_1001_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1001_info.lua
+END
+ai_141_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/384471/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_141_jy_info.lua
+END
+ai_134_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/372600/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_134_info.lua
+END
+ship_95_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/247875/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_95_info.lua
+END
+plot_14_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/372477/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_14_info.lua
+END
+ship_guildboss_1004_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/qtz/!svn/ver/376791/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_guildboss_1004_info.lua
+END
+ai_yiji_2005_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/306090/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_2005_info.lua
+END
+plot_41_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_41_jy_info.lua
+END
+plot_62_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/356278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_62_info.lua
+END
+plot_46_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/232731/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_46_info.lua
+END
+ship_102_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/386993/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_102_jy_info.lua
+END
+plot_82_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_82_jy_info.lua
+END
+ship_yiji_1011_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1011_info.lua
+END
+plot_94_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/286096/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_94_info.lua
+END
+ai_11_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_11_jy_info.lua
+END
+ship_143_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/384436/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_143_jy_info.lua
+END
+ai_24_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/235337/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_24_info.lua
+END
+ai_15_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/378496/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_15_jy_info.lua
+END
+ai_52_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_52_jy_info.lua
+END
+ai_72_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/364961/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_72_info.lua
+END
+ai_56_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/232731/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_56_info.lua
+END
+plot_131_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/370136/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_131_jy_info.lua
+END
+ai_93_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_93_jy_info.lua
+END
+plot_yiji_1005_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1005_info.lua
+END
+ship_24_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/235337/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_24_info.lua
+END
+ai_guildboss_1005_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/qtz/!svn/ver/376791/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_guildboss_1005_info.lua
+END
+ship_33_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/379397/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_33_jy_info.lua
+END
+ai_111_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/370017/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_111_info.lua
+END
+ship_72_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_72_info.lua
+END
+plot_yiji_2009_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/301196/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_2009_info.lua
+END
+ship_56_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/232731/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_56_info.lua
+END
+ai_yiji_1010_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1010_info.lua
+END
+ai_113_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_113_jy_info.lua
+END
+ai_143_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/383597/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_143_info.lua
+END
+plot_23_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/372064/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_23_info.lua
+END
+ai_127_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/247298/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_127_info.lua
+END
+plot_13_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/375656/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_13_jy_info.lua
+END
+ship_101_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_101_info.lua
+END
+plot_71_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/356278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_71_info.lua
+END
+plot_55_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/243858/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_55_info.lua
+END
+ship_111_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_111_jy_info.lua
+END
+ship_5_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_5_info.lua
+END
+plot_91_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_91_jy_info.lua
+END
+ship_133_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_133_info.lua
+END
+ship_117_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/247464/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_117_info.lua
+END
+ship_yiji_1004_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1004_info.lua
+END
+ai_33_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/363992/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_33_info.lua
+END
+ai_17_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/255858/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_17_info.lua
+END
+ship_yiji_2008_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_2008_info.lua
+END
+ai_61_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_61_jy_info.lua
+END
+ai_81_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/379423/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_81_info.lua
+END
+plot_113_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/356301/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_113_info.lua
+END
+plot_103_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_103_jy_info.lua
+END
+ai_65_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/243858/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_65_info.lua
+END
+plot_yiji_2002_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/301196/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_2002_info.lua
+END
+plot_yiji_1014_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1014_info.lua
+END
+ai_97_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/247853/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_97_info.lua
+END
+ship_33_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_33_info.lua
+END
+ship_17_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/267015/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_17_info.lua
+END
+ship_42_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377769/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_42_jy_info.lua
+END
+ship_81_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_81_info.lua
+END
+ai_4_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_4_info.lua
+END
+ship_65_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/248988/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_65_info.lua
+END
+ai_122_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_122_jy_info.lua
+END
+ship_83_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_83_jy_info.lua
+END
+ai_yiji_1003_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1003_info.lua
+END
+plot_32_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/330351/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_32_info.lua
+END
+ship_97_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/247875/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_97_info.lua
+END
+plot_22_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_22_jy_info.lua
+END
+plot_16_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/267899/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_16_info.lua
+END
+ship_guildboss_1006_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/qtz/!svn/ver/376791/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_guildboss_1006_info.lua
+END
+ai_yiji_2007_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/306090/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_2007_info.lua
+END
+plot_64_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_64_info.lua
+END
+plot_63_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_63_jy_info.lua
+END
+ship_142_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_142_info.lua
+END
+ship_yiji_2001_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_2001_info.lua
+END
+plot_guildboss_1001_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/qtz/!svn/ver/355705/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_guildboss_1001_info.lua
+END
+ship_yiji_1013_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1013_info.lua
+END
+ai_42_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/363992/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_42_info.lua
+END
+ai_26_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/243861/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_26_info.lua
+END
+ai_33_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_33_jy_info.lua
+END
+plot_122_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/356301/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_122_info.lua
+END
+plot_112_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_112_jy_info.lua
+END
+ai_74_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_74_info.lua
+END
+ship_42_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_42_info.lua
+END
+plot_yiji_1007_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1007_info.lua
+END
+ship_14_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/378284/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_14_jy_info.lua
+END
+ship_26_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/243861/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_26_info.lua
+END
+ship_51_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_51_jy_info.lua
+END
+ai_113_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/370017/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_113_info.lua
+END
+ship_74_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_74_info.lua
+END
+ai_131_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/370133/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_131_jy_info.lua
+END
+ship_92_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_92_jy_info.lua
+END
+ai_yiji_1012_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1012_info.lua
+END
+plot_41_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/330351/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_41_info.lua
+END
+plot_31_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_31_jy_info.lua
+END
+plot_25_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/330351/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_25_info.lua
+END
+ship_103_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/383687/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_103_info.lua
+END
+plot_73_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/356278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_73_info.lua
+END
+plot_72_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_72_jy_info.lua
+END
+ship_yiji_2010_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_2010_info.lua
+END
+ship_133_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_133_jy_info.lua
+END
+ship_yiji_1006_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1006_info.lua
+END
+ai_51_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/342092/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_51_info.lua
+END
+ai_35_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/239755/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_35_info.lua
+END
+ai_42_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_42_jy_info.lua
+END
+plot_131_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/344906/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_131_info.lua
+END
+plot_121_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_121_jy_info.lua
+END
+ai_83_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/386999/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_83_info.lua
+END
+plot_115_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/305939/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_115_info.lua
+END
+ai_67_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/243858/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_67_info.lua
+END
+ai_83_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/386999/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_83_jy_info.lua
+END
+plot_yiji_2004_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/301196/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_2004_info.lua
+END
+ship_51_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_51_info.lua
+END
+ship_23_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/381035/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_23_jy_info.lua
+END
+ship_35_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/248988/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_35_info.lua
+END
+ai_122_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/370017/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_122_info.lua
+END
+ship_83_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/372393/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_83_info.lua
+END
+ai_103_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/383687/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_103_jy_info.lua
+END
+ship_67_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/248988/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_67_info.lua
+END
+ai_yiji_1005_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1005_info.lua
+END
+plot_begin_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/384142/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_begin_info.lua
+END
+plot_34_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/235337/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_34_info.lua
+END
+ship_101_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/383687/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_101_jy_info.lua
+END
+ship_112_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_112_info.lua
+END
+ai_yiji_2009_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/306090/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_2009_info.lua
+END
+plot_82_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/356278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_82_info.lua
+END
+plot_81_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_81_jy_info.lua
+END
+plot_66_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/231745/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_66_info.lua
+END
+ai_12_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/385478/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_12_info.lua
+END
+ship_142_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/384436/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_142_jy_info.lua
+END
+ship_yiji_2003_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_2003_info.lua
+END
+plot_guildboss_1003_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/qtz/!svn/ver/357183/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_guildboss_1003_info.lua
+END
+ship_yiji_1015_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1015_info.lua
+END
+plot_2_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/271574/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_2_info.lua
+END
+ai_14_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/378496/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_14_jy_info.lua
+END
+ai_44_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/231745/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_44_info.lua
+END
+ai_51_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_51_jy_info.lua
+END
+ai_92_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/370017/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_92_info.lua
+END
+ai_92_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_92_jy_info.lua
+END
+ship_12_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385413/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_12_info.lua
+END
+plot_134_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_134_jy_info.lua
+END
+ship_32_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/379278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_32_jy_info.lua
+END
+ship_44_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/231745/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_44_info.lua
+END
+plot_yiji_1009_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1009_info.lua
+END
+ai_131_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/370017/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_131_info.lua
+END
+ship_92_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_92_info.lua
+END
+ai_112_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/371925/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_112_jy_info.lua
+END
+ship_73_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_73_jy_info.lua
+END
+plot_11_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/326205/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_11_info.lua
+END
+ai_115_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qtz/!svn/ver/247298/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_115_info.lua
+END
+ship_guildboss_1001_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/qtz/!svn/ver/376791/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_guildboss_1001_info.lua
+END
+ai_yiji_2002_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/306090/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_2002_info.lua
+END
+plot_12_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_12_jy_info.lua
+END
+ai_yiji_1014_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_yiji_1014_info.lua
+END
+plot_43_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/365885/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_43_info.lua
+END
+ship_121_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_121_info.lua
+END
+plot_53_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_53_jy_info.lua
+END
+plot_91_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/356278/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_91_info.lua
+END
+ship_105_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/249387/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_105_info.lua
+END
+plot_75_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/247266/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_75_info.lua
+END
+ship_114_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_114_jy_info.lua
+END
+ai_21_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/371964/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_21_info.lua
+END
+plot_94_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_94_jy_info.lua
+END
+plot_101_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/356301/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_101_info.lua
+END
+ai_23_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/370113/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_23_jy_info.lua
+END
+ship_yiji_1008_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/306188/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_yiji_1008_info.lua
+END
+ai_53_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/363992/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_53_info.lua
+END
+plot_102_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/386993/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_102_jy_info.lua
+END
+plot_133_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/356301/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_133_info.lua
+END
+plot_yiji_1002_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/300965/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_1002_info.lua
+END
+ai_85_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qtz/!svn/ver/247266/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_85_info.lua
+END
+ship_21_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/385373/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_21_info.lua
+END
+plot_117_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qtz/!svn/ver/305939/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_117_info.lua
+END
+ai_guildboss_1002_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/qtz/!svn/ver/376791/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_guildboss_1002_info.lua
+END
+plot_143_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qtz/!svn/ver/383597/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_143_jy_info.lua
+END
+plot_yiji_2006_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/qtz/!svn/ver/301196/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_yiji_2006_info.lua
+END
+ship_41_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377769/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_41_jy_info.lua
+END
+ship_53_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/373141/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_53_info.lua
+END
+ai_121_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qtz/!svn/ver/372558/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ai_121_jy_info.lua
+END
+ship_82_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/377288/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_82_jy_info.lua
+END
+ship_85_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qtz/!svn/ver/247266/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/ship_85_info.lua
+END
+plot_21_jy_info.lua
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qtz/!svn/ver/370115/mg01/design/%E5%AF%BC%E8%A1%A8%E6%95%B0%E6%8D%AE/scripts/data/battles/plot_21_jy_info.lua
+END
